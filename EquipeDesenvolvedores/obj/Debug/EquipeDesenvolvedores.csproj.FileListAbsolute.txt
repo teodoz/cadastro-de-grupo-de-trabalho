@@ -1,0 +1,12 @@
+C:\Users\Saulo Teodoz\source\repos\EquipeDesenvolvedores\EquipeDesenvolvedores\obj\Debug\EquipeDesenvolvedores.csprojAssemblyReference.cache
+C:\Users\Saulo Teodoz\source\repos\EquipeDesenvolvedores\EquipeDesenvolvedores\obj\Debug\EquipeDesenvolvedores.Form1.resources
+C:\Users\Saulo Teodoz\source\repos\EquipeDesenvolvedores\EquipeDesenvolvedores\obj\Debug\EquipeDesenvolvedores.csproj.GenerateResource.cache
+C:\Users\Saulo Teodoz\source\repos\EquipeDesenvolvedores\EquipeDesenvolvedores\obj\Debug\EquipeDesenvolvedores.csproj.CoreCompileInputs.cache
+C:\Users\Saulo Teodoz\source\repos\EquipeDesenvolvedores\EquipeDesenvolvedores\bin\Debug\MaterialSkin.dll
+C:\Users\Saulo Teodoz\source\repos\EquipeDesenvolvedores\EquipeDesenvolvedores\obj\Debug\EquipeDesenvolvedores.csproj.CopyComplete
+C:\Users\Saulo Teodoz\source\repos\EquipeDesenvolvedores\EquipeDesenvolvedores\bin\Debug\Cadastro de Grupo de Trabalho.exe.config
+C:\Users\Saulo Teodoz\source\repos\EquipeDesenvolvedores\EquipeDesenvolvedores\bin\Debug\Cadastro de Grupo de Trabalho.exe
+C:\Users\Saulo Teodoz\source\repos\EquipeDesenvolvedores\EquipeDesenvolvedores\bin\Debug\Cadastro de Grupo de Trabalho.pdb
+C:\Users\Saulo Teodoz\source\repos\EquipeDesenvolvedores\EquipeDesenvolvedores\obj\Debug\CadastroGrupo.Properties.Resources.resources
+C:\Users\Saulo Teodoz\source\repos\EquipeDesenvolvedores\EquipeDesenvolvedores\obj\Debug\Cadastro de Grupo de Trabalho.exe
+C:\Users\Saulo Teodoz\source\repos\EquipeDesenvolvedores\EquipeDesenvolvedores\obj\Debug\Cadastro de Grupo de Trabalho.pdb
